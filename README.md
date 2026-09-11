@@ -9,10 +9,10 @@ Analyzed U.S. airline flight data using Excel and Power Query to identify patter
 - What operational patterns can be identified from flight performance data?
 
 ## Tools & Skills
-Excel: PivotTables, XLOOKUP, KPI analysis, charts, conditional analysis
-Power Query: Data import, cleaning, transformation, and preparation
-Data Analysis: Delay rates, airline comparisons, operational trends
-Data Visualization: KPI summaries, PivotCharts, and interactive analysis
+- Excel: PivotTables, XLOOKUP, KPI analysis, charts, conditional analysis
+- Power Query: Data import, cleaning, transformation, and preparation
+- Data Analysis: Delay rates, airline comparisons, operational trends
+- Data Visualization: KPI summaries, PivotCharts, and interactive analysis
 
 ## Data
 The analysis uses U.S. flight operations data containing information such as:
